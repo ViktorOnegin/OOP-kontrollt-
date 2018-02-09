@@ -1,0 +1,7 @@
+D:\programs\Visual Studio 2017\OOP Kontrolltöö\OOP Kontrolltöö\bin\Debug\OOP Kontrolltöö.exe.config
+D:\programs\Visual Studio 2017\OOP Kontrolltöö\OOP Kontrolltöö\bin\Debug\OOP Kontrolltöö.exe
+D:\programs\Visual Studio 2017\OOP Kontrolltöö\OOP Kontrolltöö\bin\Debug\OOP Kontrolltöö.pdb
+D:\programs\Visual Studio 2017\OOP Kontrolltöö\OOP Kontrolltöö\obj\Debug\OOP Kontrolltöö.csprojResolveAssemblyReference.cache
+D:\programs\Visual Studio 2017\OOP Kontrolltöö\OOP Kontrolltöö\obj\Debug\OOP Kontrolltöö.csproj.CoreCompileInputs.cache
+D:\programs\Visual Studio 2017\OOP Kontrolltöö\OOP Kontrolltöö\obj\Debug\OOP Kontrolltöö.exe
+D:\programs\Visual Studio 2017\OOP Kontrolltöö\OOP Kontrolltöö\obj\Debug\OOP Kontrolltöö.pdb
