@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP_Kontrolltöö
 {
-    class Toad
+    class Töötajad
     {
-        public bool MajaUks = true;
-        public bool ArendajateTuba = true;
-        public bool ÜlemusteTuba = true;
+        public string Name2;
         public bool Köök = true;
-        public bool AndmetöötlejateTuba = true;
     }
 }

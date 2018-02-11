@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace OOP_Kontrolltöö
 {
-    class Köök : Ruumid
+    class Ruumid : Töötajad
     {
-        public Köök()
+        public string Name1;
+
+        public void RuumiSisenemine()
         {
-            Name1 = "Köök";
         }
     }
 }

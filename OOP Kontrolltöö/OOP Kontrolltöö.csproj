@@ -42,19 +42,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Andmetöötlejad.cs" />
-    <Compile Include="AndmetöötlejateTuba.cs" />
-    <Compile Include="ArendajateTuba.cs" />
+    <Compile Include="Andmetöötleja.cs" />
+    <Compile Include="AndmetöötlejaRuum.cs" />
+    <Compile Include="ArendajaRuum.cs" />
+    <Compile Include="KontoriSisseastumine.cs" />
     <Compile Include="Köök.cs" />
-    <Compile Include="NooremadArendajad.cs" />
+    <Compile Include="NooremArendaja.cs" />
+    <Compile Include="PeaUks.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpetsiaalKoristajad.cs" />
-    <Compile Include="TavaKoristajad.cs" />
-    <Compile Include="Toad.cs" />
-    <Compile Include="VanemadArendajad.cs" />
-    <Compile Include="Ülemused.cs" />
-    <Compile Include="ÜlemusteTuba.cs" />
+    <Compile Include="Ruumid.cs" />
+    <Compile Include="SpetsiaalKoristaja.cs" />
+    <Compile Include="TavaKoristaja.cs" />
+    <Compile Include="Töötajad.cs" />
+    <Compile Include="VanemArendaja.cs" />
+    <Compile Include="Ülemus.cs" />
+    <Compile Include="ÜlemuseRuum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

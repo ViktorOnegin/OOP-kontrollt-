@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP_Kontrolltöö
 {
-    class Köök : Ruumid
+    class KontoriSisseastumine
     {
-        public Köök()
-        {
-            Name1 = "Köök";
-        }
+        public string Name3;
+        public bool PeaUks = true;
     }
 }
